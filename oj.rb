@@ -1,8 +1,8 @@
 class Oj < Formula
   desc "A JSON parser and visualization tool."
   homepage "https://github.com/ohler55/ojg"
-  url "https://github.com/ohler55/ojg/archive/refs/tags/v1.19.3.tar.gz"
-  sha256 "077c01e84d04d8ccb7d4634388623ff63a0f216e4b448dce0c03944c0d5c4bf3"
+  url "https://github.com/ohler55/ojg/archive/refs/tags/v1.19.4.tar.gz"
+  sha256 "d9f07e35f4b3cb31336e598f1a380b904cf5c6b94bec45e3f7eb9930812ee187"
 
   depends_on "go"
 
